@@ -194,13 +194,11 @@ An error becomes a navigation problem.
 And the interface responds by trying to solve it.
 
 ---
-### Demo
+### Live Demo
 
-**Live Demo:**  
-https://starvixhub.github.io/404-Navigation-Recovery/
+- [🌐 GitHub Pages](https://starvixhub.github.io/404-Navigation-Recovery/)
+- [🎨 CodePen](https://codepen.io/editor/sinarezaei/pen/01a10bdb-84f0-7c22-8eb6-950333aa7da8)  
 
-**CodePen:**  
-https://codepen.io/editor/sinarezaei/pen/01a10bdb-84f0-7c22-8eb6-950333aa7da8
 ---
 
 ## Design & Development
